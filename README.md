@@ -35,12 +35,14 @@ Welcome to my GitHub profile! I’m a freelance **data scientist and analyst** p
 
 ## 🛠️ Skills & Tools
 
-- **Languages:** Python, R, SQL  
-- **Techniques:** Predictive modeling, Decision Trees, Stacking, ARIMAX, Hyperopt  
-- **Tools:** Spark, Excel, workflow automation platforms  
-- **Strengths:** Client communication, proposal writing, tailored recommendations, and error-proofing deliverables
+- **Programming Languages:** Python, R, SQL  
+- **Machine Learning & AI:** Predictive modeling, Decision Trees, Stacking, ARIMAX, Hyperopt, Deep Learning (NLP & CV)  
+- **Data Tools:** Spark, Pandas, NumPy, Scikit-learn, TensorFlow, Keras  
+- **Visualization:** Matplotlib, Seaborn, Plotly, Power BI  
+- **Workflow & Automation:** Excel, n8n, workflow optimization, error-proofing deliverables  
+- **Professional Strengths:** Client communication, proposal writing, tailored recommendations, and storytelling through data
 
----
+
 
 ## 📊 My Approach
 
