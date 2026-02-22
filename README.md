@@ -1,4 +1,4 @@
-# Hi there, I'm Ibrahim Chaoudi 👋
+# Hi there, I'm Ibrahim 
 
 Welcome to my GitHub profile! I’m a freelance **data scientist and analyst** passionate about turning complex data into impactful stories and actionable insights. I thrive on international collaboration and love building optimized models that solve real-world problems.
 
