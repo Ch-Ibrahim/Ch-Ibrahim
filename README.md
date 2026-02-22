@@ -9,7 +9,10 @@ Welcome to my GitHub profile! I’m a freelance **data scientist and analyst** p
 - 🔭 I’m currently working on:  
   Freelance data science projects across the MENA region, focusing on **predictive modeling, workflow optimization, and impactful client deliverables**.
 
-- 🌱 I’m currently learning:  
+- 🌱 I’m currently learning:
+  
+  Designing and implementing machine learning models across diverse domains, including natural language processing, computer vision, deep learning, and applied AI techniques. I’m gaining hands-on experience with    real-world projects under expert mentorship, while strengthening skills in end-to-end ML workflows, deployment, and cross-domain problem solving
+  
   Advanced **AI agent development** for WhatsApp Business and automation tools like **n8n**, with a focus on compliance and scalability for freelance offerings.
 
 - 👯 I’m looking to collaborate on:  
@@ -23,8 +26,7 @@ Welcome to my GitHub profile! I’m a freelance **data scientist and analyst** p
 
 - 📫 How to reach me:  
   [LinkedIn](https://www.linkedin.com/in/ibrahimchaoudi/) | [Email](mailto:Brahiml_chaoudi@yahoo.com)  
-  *(Add your actual links here!)*
-
+  
 
 - ⚡ Fun fact:  
   I learn best by teaching others—explaining complex topics in simple ways is my favorite challenge!
